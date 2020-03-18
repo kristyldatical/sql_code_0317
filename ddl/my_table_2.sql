@@ -1,1 +1,4 @@
-create table my_table_2(id int);
+CREATE TABLE "TESTUSER0317"."SOME_TABLE" 
+   ("ID" NUMBER(*,0) NOT NULL ENABLE, 
+    "NAME" VARCHAR2(50 BYTE)
+   );
