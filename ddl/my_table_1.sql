@@ -1,1 +1,0 @@
-create table my_table_1(id int);
